@@ -43,6 +43,9 @@ python main.py --image path_to_omr_image.jpg
 ## Contributing
 Feel free to fork this repository and create pull requests for improvements or new features. Issues and feedback are welcome.
 
+## License
+This project is licensed under the MIT License.
+
 ---
 
 If you have any questions or need assistance, please contact [ponnadasuchitra320@gmail.com]
