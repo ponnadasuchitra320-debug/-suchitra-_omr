@@ -26,7 +26,7 @@ The solution involves the following steps:
 
 # Install dependencies:
 opencv-python>=4.5.0
-numpy>=1.19.0
+numpy>=1.19.
 
 ## Usage
 1. Place your scanned OMR sheet image in the project directory or provide the path.
