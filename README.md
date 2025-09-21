@@ -18,7 +18,7 @@ The solution involves the following steps:
 - NumPy for numerical operations
 
 # Installation
-1. Clone this repository: https://github.com/ponnadasuchitra320-debug/suchitra-_omr.git 
+1. Clone this repository:gh repo clone ponnadasuchitra320-debug/OMR-EVALUATION 
 2. Create and activate a Python virtual environment:
 -python -m venv venv
 -source venv/bin/activate # Linux/Mac
@@ -37,8 +37,6 @@ python main.py --image path_to_omr_image.jpg
 
 ## Project Demo and Deployment
 - **GitHub Repository:**  https://github.com/ponnadasuchitra320-debug/suchitra-_omr.git 
-- **Video Presentation:** [Insert your detailed walkthrough video URL here]
-- **Web Application:** [Insert your deployed project's URL here]
 
 ## Contributing
 Feel free to fork this repository and create pull requests for improvements or new features. Issues and feedback are welcome.
